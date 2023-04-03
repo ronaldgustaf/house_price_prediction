@@ -2,8 +2,8 @@
 Analysis on Housing Dataset (Kaggle), EDA, Feature Engineering, PCA Dimension Reduction, and Regression Modelling to predict House Price
 
 Final Project SDSC2001 Python for Data Science - Grade: A+
-Lecturer: Dr. LI Xinyue
-City University of Hong Kong
+> Lecturer: Dr. LI Xinyue
+> City University of Hong Kong
 
 ## Data Preprocessing
 - Missing Values
